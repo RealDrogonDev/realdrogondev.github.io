@@ -1,0 +1,26 @@
+*{
+    font-family:arial;
+    color:white;
+}
+body{
+    background-color:black;
+}
+#center-items{
+    padding:250px;
+    text-align:left;
+}
+#text-item{
+    color:grey;
+    font-size:45px;
+    text-decoration:none;
+    transition:all 0.2s ease 0s;
+}
+#text-item:hover{
+    color:white;
+}
+#text-item-ng{
+    color:rgb(223, 63, 63);
+    font-size:70px;
+    text-decoration:none;
+    cursor:default;
+}
